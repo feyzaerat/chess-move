@@ -1,0 +1,16 @@
+body{
+    top:0;
+    left: 0;
+    margin:0;
+    padding: 0;
+    background: #0c5460!important;
+}
+body::-webkit-scrollbar{
+    display: none;
+}
+table{
+    width: 720px;
+    height: 720px;
+    border:3px solid #0a4161;
+
+}
