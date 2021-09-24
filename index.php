@@ -8,12 +8,12 @@
     <title>Chess</title>
     <!--css-->
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bootstrap.min.css">
     <!--css-->
 
     <!--js-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="../assets/js/bootstrap.min.js"></script>
+    <script src="bootstrap.min.js"></script>
     <!--js-->
 </head>
 <body>
